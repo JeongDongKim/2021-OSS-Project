@@ -6,3 +6,4 @@ int main()
      printf("오늘은 비가올것 같네요");
      return 0;
 }
+``
